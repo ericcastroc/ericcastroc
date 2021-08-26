@@ -1,9 +1,9 @@
-### Ola, meu nome é Eric Castro, seja bem vindo(a)  👋
+<h2 align="left"> ### Ola, meu nome é Eric Castro, seja bem vindo(a)  👋 </h1>
 
-- 🎓 Atualmente estou cursando o 4º Período de Ciência da Computação - UIT 
+- 🎓 Atualmente estou cursando o 4º Período de **Ciência da Computação - UIT** 
 - 💼 Trabalho como Técnico de TI
-- 💻 Estudando C e Java
+- 💻 Estudando **C** e **Java**
 
-### Linguagens 
+<h3 align="left"> Linguagens </h3> 
 
-https://xesque.rocketseat.dev/platform/tech/java.svg
+
