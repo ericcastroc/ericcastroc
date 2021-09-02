@@ -2,7 +2,7 @@
 
 - 🎓 Atualmente estou cursando o 4º Período de **Ciência da Computação - UIT** 
 - 💼 Trabalho como Técnico de TI
-- 💻 Estudando **C**,**Java**,**HTML** e **CSS**
+- 💻 Estudando **C**, **Java**, **HTML** e **CSS**
 
 ##
 
