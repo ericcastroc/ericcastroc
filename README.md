@@ -26,4 +26,5 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricCCastro&show_icons=true&theme=dracula&locale=en&layout=compact" alt="EricCCastro" /> 
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EricCCastro&show_icons=true&theme=dracula&locale=en" alt="EricCCastro" />
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=EricCCastro&label=Profile%20views&color=e6333f&style=flat" alt="EricCCastro" /> </p>
    
