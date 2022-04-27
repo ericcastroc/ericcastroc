@@ -9,7 +9,7 @@
 <h3 align="left"> Entre em contato 💬 </h3>  
 
 <a href = "mailto: eric-henrique44@hotmail.com" target = "_blank" >
-<img align = "center" alt = "EricCastro-Gmail" heigth = "30" width = "40" src = "https://image.flaticon.com/icons/png/512/281/281769.png"  style = "max-width:100%;" > </a>
+<img align = "center" alt = "EricCastro-Gmail" heigth = "30" width = "40" src = "https://www.flaticon.com/free-icon/gmail_732200? term=gmail&page=1&position=1&page=1&position=1&related_id=732200&origin=search"  style = "max-width:100%;" > </a>
 <a href = "https://www.linkedin.com/in/ericccastro/" target = "_blank" >
 <img align = "center" alt = "EricCastro-Linkedin" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  style = "max-width:100%;" > </a>
 
