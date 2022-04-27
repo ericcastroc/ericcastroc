@@ -22,9 +22,9 @@
  ##
  
   <div>
-<a href="https://github.com/EricCCastro">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricCCastro&show_icons=true&theme=dracula&locale=en&layout=compact" alt="EricCCastro" /> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EricCCastro&show_icons=true&theme=dracula&locale=en" alt="EricCCastro" />
+<a href="https://github.com/ericcastroc">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricCCastro&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ericcastroc" /> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericcastroc&show_icons=true&theme=dracula&locale=en" alt="ericcastroc" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EricCCastro&label=Profile%20views&color=e6333f&style=flat" alt="EricCCastro" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericcastroc&label=Profile%20views&color=e6333f&style=flat" alt="ericcastroco" /> </p>
    
