@@ -1,4 +1,5 @@
 <h2 align="left"> Ola, meu nome é Eric Castro, seja bem vindo(a)  👋 </h2>
+<p><img align="right" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/giphy.gif?raw=true" alt="adam-pw" /></p>
 
 - 🎓 Atualmente estou cursando o 5º Período de **Ciência da Computação - UIT** 
 - 💼 Trabalho como Analista de Desenvolvimento de Sistemas
