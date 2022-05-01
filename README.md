@@ -11,7 +11,7 @@
 
 <a href = "mailto: eric-henrique44@hotmail.com" target = "_blank" >
 <img align = "center" alt = "EricCastro-Gmail" heigth = "30" width = "40" src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"  style = "max-width:100%;" > </a>
-<a href = "https://www.linkedin.com/in/ericccastro/" target = "_blank" >
+<a href = "https://www.linkedin.com/in/ericcastroc/" target = "_blank" >
 <img align = "center" alt = "EricCastro-Linkedin" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  style = "max-width:100%;" > </a>
 
 
