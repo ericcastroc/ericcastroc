@@ -1,4 +1,4 @@
-<h2 align="left"> Ola, meu nome é Eric Castro, seja bem vindo(a) <img heigth = "40" width = "50" align="center" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/Icone%20Hacking.gif?raw=true" /></h2>
+<h2 align="left"> Ola, meu nome é Eric Castro, seja bem vindo(a) <img heigth = "30" width = "40" align="center" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/Icone%20Hacking.gif?raw=true" /></h2>
 <p><img align="right" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/giphy.gif?raw=true" alt="adam-pw" /></p>
 
 - 🎓 Atualmente estou cursando o 5º Período de **Ciência da Computação - UIT** 
@@ -7,7 +7,7 @@
 
 ##
 
-<h3 align="left"> Entre em contato <img heigth = "30" width = "40" align="center" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/Icone%20Contact%20Me%20.gif?raw=true" /></h3>  
+<h3 align="left"> Entre em contato <img heigth = "20" width = "30" align="center" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/Icone%20Contact%20Me%20.gif?raw=true" /></h3>  
 
 <a href = "mailto: eric-henrique44@hotmail.com" target = "_blank" >
 <img align = "center" alt = "EricCastro-Gmail" heigth = "30" width = "40" src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"  style = "max-width:100%;" > </a>
