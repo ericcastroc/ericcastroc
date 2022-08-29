@@ -19,8 +19,9 @@
 
 <h3 align="left"> Linguagens </h3> 
 
-<img align = "center" alt = "EricCastro-c" heigth = "30" width = "30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
+<img align = "center" alt = "EricCastro-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
 <img align = "center" alt = "EricCastro-c" heigth = "30" width = "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style = "max-width:100%;" > </img>
+<img align = "center" alt = "EricCastro-c" heigth = "30" width = "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style = "max-width:100%;"> </img>
 
   
  ##
