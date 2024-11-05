@@ -1,35 +1,29 @@
-<h2 align="left"> Ola, meu nome é Eric Castro, seja bem vindo(a) <img heigth = "30" width = "40" align="center" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/Icone%20Hacking.gif?raw=true" /></h2>
-<p><img align="right" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/giphy.gif?raw=true" alt="adam-pw" /></p>
+<h2>Hi 👋, I'm Eric Castro</h2>
+<h4>Back-end Developer and technology enthusiast 🚀</h4>
 
-- 🎓 Atualmente estou cursando o 6º Período de **Ciência da Computação - UIT** 
-- 💼 Trabalho como Analista de Desenvolvimento de Sistemas
-- 💻 Estudando **Java**, **HTML**, **CSS**, **PHP** e **Python**
+<div style="display: flex">
+  <div>
+    <h3>Skills 💻</h3>
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </div>
+  <div>
+    <h3>Connect with me 🌐</h3>
+    <a href="https://linkedin.com/in/ericcastroc" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </div>
+</div>
 
 ##
 
-<h3 align="left"> Entre em contato <img heigth = "20" width = "30" align="center" src="https://github.com/ericcastroc/ericcastroc/blob/main/Giphy/Icone%20Contact%20Me%20.gif?raw=true" /></h3>  
-
-<a href = "mailto: eric-henrique44@hotmail.com" target = "_blank" >
-<img align = "center" alt = "EricCastro-Gmail" heigth = "30" width = "40" src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"  style = "max-width:100%;" > </a>
-<a href = "https://www.linkedin.com/in/ericcastroc/" target = "_blank" >
-<img align = "center" alt = "EricCastro-Linkedin" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  style = "max-width:100%;" > </a>
-<a href = "https://www.instagram.com/ericcastroc/" target = "_blank" >
-<img align = "center" alt = "EricCastro-Instagram" heigth = "30" width = "40" src = "https://cdn-icons-png.flaticon.com/512/1384/1384063.png"  style = "max-width:100%;" > </a>
-
-
-<h3 align="left"> Linguagens </h3> 
-
-<img align = "center" alt = "EricCastro-c" heigth = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  style = "max-width:100%;" > </img>
-<img align = "center" alt = "EricCastro-c" heigth = "30" width = "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style = "max-width:100%;" > </img>
-<img align = "center" alt = "EricCastro-c" heigth = "30" width = "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style = "max-width:100%;"> </img>
-
-  
- ##
- 
-  <div align="center">
-<a href="https://github.com/ericcastroc">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericcastroc&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ericcastroc" /> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericcastroc&show_icons=true&theme=dracula&locale=en" alt="ericcastroc" />
+<div>
+  <a href="https://github.com/your-username">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericcastroc&show_icons=true&theme=radical&locale=en&layout=compact" alt="your-username" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcastroc&show_icons=true&theme=radical&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="your-username" />
+  </a>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericcastroc&label=Profile%20views&color=008080&style=flat" alt="ericcastroco" /> </p>
-   
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericcastroc&label=Profile%20views&color=e6333f&style=flat" alt="ericcastroc" /> </p>
