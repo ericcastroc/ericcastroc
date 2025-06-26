@@ -58,4 +58,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcastroc&show_icons=true&theme=radical&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="Eric's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericcastroc&show_icons=true&theme=radical&locale=en&layout=compact" alt="Eric's Top Languages"/>
 </div>
----
+
